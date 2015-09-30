@@ -1,7 +1,7 @@
 package com.zenlambda.net.gamedev.nehe_tutorial;
 
 import java.lang.reflect.InvocationTargetException;
-import javax.media.opengl.awt.GLCanvas;
+import com.jogamp.opengl.awt.GLCanvas;
 import javax.swing.JApplet;
 import javax.swing.SwingUtilities;
 import com.jogamp.opengl.util.FPSAnimator;
